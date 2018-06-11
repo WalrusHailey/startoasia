@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "メディプラス 福岡・天神ジャックイベント開催！",
+  "startDate": "2018-03-20T10:00",
+  "location": {
+    "@type": "Place",
+    "name": "天神ソラリアプラザ 1Fイベントスペースゼファ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "天神2丁目2-43",
+      "addressLocality": "中央区",
+      "postalCode": "810-0001 ",
+      "addressRegion": "福岡県福岡市",
+      "addressCountry": "日本"
+    }
+  },
+  "image": ["https://bigaku.mediplus.co.jp/wp-content/uploads/2018/03/event_fukuoka_keyv.jpg"],
+  "description": "メディプラスはこの春、福岡・天神にて複数のイベントを開催！ ソラリアプラザや天神きらめき通りでのイベント開催をはじめ、ファッションビル「VIORO（ヴィオロ）」では期間限定ショップもオープン。イベントでは無料サンプル配布や体験型フォトブースなどを設置し、特別豪華ゲストも出演！ 肌と心のうるおいをたっぷりとお届けします！",
+  "endDate": "2018-03-21T21:00",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://bigaku.mediplus.co.jp/2018/03/event/%E3%83%A1%E3%83%87%E3%82%A3%E3%83%97%E3%83%A9%E3%82%B9-%E7%A6%8F%E5%B2%A1%E3%83%BB%E5%A4%A9%E7%A5%9E%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E9%96%8B%E5%82%AC%EF%BC%81?_ga=2.172919459.1464141167.1528711911-369142279.1526532210",
+    "price": "0",
+    "priceCurrency": "JPY",
+    "availability": "http://schema.org/InStock",
+    "validFrom": "2018-03-20T10:00"
+  },
+  "performer": {
+    "@type": "Person",
+    "name": "小倉優子"
+  }
+}
+</script>
