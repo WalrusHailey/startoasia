@@ -1,0 +1,22 @@
+    <script type="application/ld+json">
+      {
+        "@context":"https://schema.org",
+        "@type":"Corporation",
+        "brand":"メディプラス公式",
+        "url":"http://brand.mediplus-orders.jp/",
+        "sameAs": [
+          "http://www.facebook.com/share.php?u=http://brand.mediplus-orders.jp",
+          "https://twitter.com/mediplus_jp",
+          "https://www.instagram.com/mediplus_official/"
+        ],
+        "logo":"http://brand.mediplus-orders.jp/common/img/logo.png",
+        "contactPoint": [
+        {
+            "@type": "ContactPoint",
+            "telephone": "メディプラス公式的客服電話", //這邊請填入メディプラス公式的服務電話，請加上國碼
+            "contactType": "customer service",
+            "areaServed": "JP"
+          }
+        ]
+      }
+    </script>
